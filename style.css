@@ -15,14 +15,14 @@ body {
     justify-content: center;
     pad: 0 10px;
     min-height: 100vh;
-    background-color: #44cffa;
+    background-color: #a8d7ed;
 }
 
 .container {
     max-width: 690px;
     width: 100%;
     padding: 30px;
-    background: #0f0f0f;
+    background: #e9dddd;
     border-radius: 7px;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.10);
 }
@@ -55,7 +55,7 @@ body {
 }
 
 .text-input textarea::placeholder {
-    color: #e1e427;
+    color: #191a11;
 }
 
 .controls, li, .icons, .icons i {
@@ -92,7 +92,7 @@ body {
 }
 
 .controls .row select {
-    color: #333;
+    color: #200404;
     border: none;
     outline: none;
     font-size: 18px;
@@ -145,7 +145,7 @@ body {
     margin-top: 20px;
     font-size: 20px;
     border-radius: 5px;
-    background: #5372F0;
+    background: #27aee3c3;
 }
 
 @media (max-width: 660px) {
